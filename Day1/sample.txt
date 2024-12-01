@@ -1,0 +1,3 @@
+Hello, this is a sample file.
+It contains several lines and words.
+Each line will be counted.
